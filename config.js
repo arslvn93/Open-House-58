@@ -3,7 +3,7 @@ const config = {
     "streetAddress": "102 Morrison St",
     "city": "Toronto",
     "cityStateZip": "Toronto, ON M5V2T8",
-    "heroSubtitle": "Experience the epitome of modern living in this extraordinary 2-bedroom, 2-bathroom Condo Apartment. Spanning an impressive 2332 sq ft, this meticulously crafted home offers a perfect blend of style, comfort, and functionality. Every corner has been designed with precision, creating a space that not only meets but exceeds the expectations of discerning homeowners. Discover a residence that seamlessly combines sophisticated design with practical living, where every detail tells a story of quality and thoughtful construction.",
+    "heroSubtitle": "Prepare to be transformed by this stunning Condo Apartment that represents the pinnacle of residential design. With 2 carefully curated bedrooms, 2 luxurious bathrooms, and an expansive 2332 sq ft floor plan, this home is more than just a living space – it's a lifestyle statement. Every inch has been thoughtfully crafted to provide an exceptional living experience that balances aesthetic appeal with practical functionality, creating a harmonious environment that adapts to your most discerning needs.",
     "backgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1760644145068-2912-80 John St-20.jpg"
   },
   "realtor": {
